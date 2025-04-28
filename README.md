@@ -3,7 +3,7 @@
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=00DA9C&size=24&center=true&vCenter=true&width=1000&height=30&lines=;Always+learning+new+things;I+build+user-friendly+applications;Using+Software+as+a+solution+for+every+Problem">
 
-## <picture><img src = "https://github.com/Vicodin78/IvanValdanovDev/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/Vicodin78/Vicodin78/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <img align="right" alt="coding" width="300px" src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s">
 
@@ -15,7 +15,7 @@
 ✉️ &nbsp;You can shoot me an email at valdanov.pro@gmail.com! I’ll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://) for more details about me. I’m open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://github.com/Vicodin78/IvanValdanovDev/blob/main/Night-Coding.gif" align="right" height="170"/>
+<img alt="Night Coding" src="https://github.com/Vicodin78/Vicodin78/blob/main/Night-Coding.gif" align="right" height="170"/>
 
 ### ⚙️ &nbsp;Tech Stack
 
@@ -70,6 +70,6 @@
   	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/">
   			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
   	<a style="margin-left: 5px;" target="_blank" href="https://github.com/Resume.pdf">
-  			<img src="https://github.com/Vicodin78/IvanValdanovDev/blob/main/resume.png" width="38" height="44"></a>
+  			<img src="https://github.com/Vicodin78/Vicodin78/blob/main/resume.png" width="38" height="44"></a>
   </div>
 </p>
