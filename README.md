@@ -27,7 +27,6 @@
 ![CoreData](https://img.shields.io/badge/-CoreData-052634?style=flat&logo=coredata)&nbsp;
 ![Realm](https://img.shields.io/badge/-Realm-052634?style=flat&logo=realm)&nbsp;
 ![CocoaPods](https://img.shields.io/badge/-CocoaPods-052634?style=flat)&nbsp;
-
 ![SwiftPackageManager](https://img.shields.io/badge/-Swift%20Package%20Manager-052634?style=flat)&nbsp;
 ![XCTest](https://img.shields.io/badge/-XCTest-052634?style=flat)&nbsp;
 ![Fastlane](https://img.shields.io/badge/-Fastlane-052634?style=flat&logo=fastlane)&nbsp;
