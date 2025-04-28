@@ -70,6 +70,6 @@
   	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/">
   			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
   	<a style="margin-left: 5px;" target="_blank" href="https://github.com/Resume.pdf">
-  			<img src="https://github.com/Vicodin78/Vicodin78/blob/main/resume.png" width="38" height="44"></a>
+  			<img src="https://img.icons8.com/plasticine/40/000000/resume.png" height="49"></a>
   </div>
 </p>
