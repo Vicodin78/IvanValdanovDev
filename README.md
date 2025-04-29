@@ -13,7 +13,7 @@
 🚀 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at valdanov.pro@gmail.com! I’ll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://) for more details about me. I’m open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://flowcv.com/resume/hkuii9mptod2) for more details about me. I’m open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://github.com/Vicodin78/Vicodin78/blob/main/Night-Coding.gif" align="right" height="170"/>
 
@@ -68,7 +68,7 @@
   			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
   	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/">
   			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-  	<a style="margin-left: 5px;" target="_blank" href="https://github.com/Resume.pdf">
+  	<a style="margin-left: 5px;" target="_blank" href="https://flowcv.com/resume/hkuii9mptod2">
   			<img src="https://img.icons8.com/plasticine/40/000000/resume.png" height="49"></a>
   </div>
 </p>
